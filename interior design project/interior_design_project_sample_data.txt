@@ -1,0 +1,191 @@
+Sample Projects Data For Interior Design CMS Website:
+====================================================
+
+Retail Interior Design Projects:
+---------------------------------
+Project 1:
+---------
+Project Name:Urban Boutique Clothing Store
+Location: Fashion District, City Center
+Design Style: Modern Industrial Chic
+Square Footage: 2,500 sq. ft.
+Color Palette: Neutral Grays, Exposed Brick, Accents of Rose Gold
+Areas Involved: Showroom, Fitting Rooms, Cashier Area
+Furniture Style: Custom Clothing Racks, Industrial Shelving
+Key Design Elements: Open Layout, Adjustable Display Units, Statement Lighting
+Materials Used: Steel, Concrete, Glass
+Featured Amenities: Interactive Mirrors, Lounge Seating
+Project Description: A chic and contemporary boutique that captures the essence of urban style. The design maximizes space efficiency while providing a visually engaging and comfortable environment for customers to explore the latest fashion trends.
+Budget Range: $80,000 - $100,000
+Services Provided: Visual Merchandising, Store Layout Optimization, Branding Elements
+Project Duration: 5 Months
+Main Image:
+Interior Design Category: Retail
+
+
+Project 2:
+----------
+Project Name: Gourmet Coffeehouse and Bakery
+Location: Downtown Cafe District
+Design Style: Cozy Modern Rustic
+Square Footage: 1,800 sq. ft.
+Color Palette: Warm Wood Tones, Soft Greens, Copper Accents
+Areas Involved: Coffee Bar, Seating Areas, Pastry Display
+Furniture Style: Custom Wood Tables, Industrial Barstools
+Key Design Elements: Exposed Ceiling Beams, Feature Wall with Greenery, Ambient Lighting
+Materials Used: Reclaimed Wood, Copper, Leather
+Featured Amenities: Outdoor Seating, Wi-Fi Lounge
+Project Description: A charming coffeehouse and bakery that combines the warmth of rustic elements with the modern appeal of a gourmet experience. The design encourages customers to savor their coffee in a cozy and aesthetically pleasing environment.
+Budget Range: $120,000 - $150,000
+Services Provided: Cafe Layout Design, Branding Integration, Custom Furniture Design
+Project Duration: 6 Months
+Main Image:
+Interior Design Category: Retail
+
+
+Project 3:
+----------
+Project Name: Tech Gadgets and Accessories Store
+Location: Electronics Retail District
+Design Style: Futuristic Tech-Inspired
+Square Footage: 2,200 sq. ft.
+Color Palette: High-Tech Grays, Neon Accents, Glossy Black
+Areas Involved: Product Display Areas, Demo Zones, Checkout Counter
+Furniture Style: Sleek and Modular Shelving
+Key Design Elements: LED Accent Lighting, Interactive Product Displays, Floating Shelves
+Materials Used: Glass, Glossy Surfaces, Metal
+Featured Amenities: Tech Demo Stations, Charging Lounge
+Project Description: A futuristic tech store designed to captivate customers with its modern aesthetics and innovative product displays. The design emphasizes the latest in technology while providing an immersive and engaging shopping experience.
+Budget Range: $90,000 - $110,000
+Services Provided: Product Display Strategy, Technology Integration, Store Layout Optimization
+Project Duration: 4 Months
+Main Image:
+Interior Design Category: Retail
+---------------------------------------------------------
+
+
+
+Commercial Interior Design projects:
+=====================================
+Project 1:
+----------
+Project Name: Innovate Co-Workspace
+Location: Tech Hub Business District
+Design Style: Modern Industrial
+Square Footage: 10,000 sq. ft.
+Color Palette: Cool Grays, Exposed Concrete, Pops of Vibrant Accents
+Spaces Involved: Open Workspaces, Meeting Rooms, Lounge Areas
+Furniture Style: Modular and Ergonomic
+Key Design Elements: Open Ceiling Design, Collaborative Zones, Glass Partitions
+Materials Used: Steel, Glass, Recycled Wood
+Featured Amenities: Tech-Integrated Workstations, Relaxation Pods
+Project Description: A dynamic co-working space that fuses modern design with industrial elements. The interiors are crafted to inspire innovation and collaboration, providing a flexible environment for the evolving needs of tech professionals.
+Budget Range: $200,000 - $250,000
+Services Provided: Space Planning, Technology Integration, Branding Elements
+Project Duration: 8 Months
+Main Image:
+Interior Design Category: Commercial
+
+
+Project 2:
+---------- 
+Project Name: Urban Chic Boutique Hotel
+Location: City Center Historic District
+Design Style: Luxury Urban Chic
+Square Footage: 15,000 sq. ft.
+Color Palette: Rich Earth Tones, Metallic Accents, Jewel Tones
+Spaces Involved: Lobby, Guest Rooms, Restaurant, Rooftop Lounge
+Furniture Style: Custom Designed, Plush Upholstery
+Key Design Elements: Statement Lighting, Artisanal Details, High-End Finishes
+Materials Used: Marble, Brass, Velvet
+Featured Amenities: Spa, Art Gallery, Rooftop Bar
+Project Description: An exquisite boutique hotel that blends urban sophistication with luxurious comfort. The design captures the essence of the city's history while providing a contemporary and opulent retreat for discerning travelers.
+Budget Range: $500,000 - $700,000
+Services Provided: Historic Preservation, Theme Integration, Brand Development
+Project Duration: 12 Months
+Main Image:
+Interior Design Category: Commercial
+
+
+Project 3:
+----------
+Project Name: Tech Innovation Hub
+Location: Research and Development Campus
+Design Style: Futuristic Tech-inspired
+Square Footage: 20,000 sq. ft.
+Color Palette: Sleek Whites, Metallic Grays, Neon Accents
+Spaces Involved: Collaborative Workspaces, Labs, Presentation Rooms
+Furniture Style: Modular and Ergonomic
+Key Design Elements: Innovative Lighting Systems, High-Tech Workstations, Glass Partitions
+Materials Used: Steel, Glass, Acrylic
+Featured Amenities: Interactive Touchscreen Displays, Lounge Pods
+Project Description: A cutting-edge innovation hub designed to foster creativity and collaboration among tech professionals. The sleek and futuristic interiors create an inspiring environment for groundbreaking research and development.
+Budget Range: $300,000 - $400,000
+Services Provided: Technology Integration, Collaborative Space Design, Ergonomics
+Project Duration: 10 Months
+Main Image:
+Interior Design Category: Commercial
+-------------------------------------------------------------------------------
+
+
+
+Residential Interior Design Projects
+=====================================
+Project 1:
+---------
+Project Name: Modern Urban Loft
+Location: Downtown City Center
+Design Style: Contemporary Minimalism
+Square Footage: 1,200 sq. ft.
+Color Palette: Neutral Tones with Pops of Blue
+Rooms Involved: Living Room, Kitchen, Bedroom
+Furniture Style: Mid-Century Modern
+Key Design Elements: Open Concept, Large Windows, Statement Lighting
+Materials Used: Wood, Glass, Stainless Steel
+Featured Amenities: Smart Home Integration, Built-in Storage Solutions
+Project Description: A contemporary urban loft that seamlessly blends style and functionality. The design focuses on maximizing natural light and creating an open, inviting atmosphere.
+Budget Range: $50,000 - $70,000
+Services Provided: Space Planning, Furniture Selection, Lighting Design
+Project Duration: 3 Months
+Main Image:
+Interior Design Category: Residential
+
+
+Project 2:
+----------
+Project Name: Classic Elegance Residence
+Location: Suburban Estate
+Design Style: Timeless Classic
+Square Footage: 3,500 sq. ft.
+Color Palette: Neutral Whites and Gold Accents
+Rooms Involved: Living Room, Dining Room, Master Suite
+Furniture Style: Traditional and Antique Reproductions
+Key Design Elements: Coffered Ceilings, Custom Moldings, Chandeliers
+Materials Used: Marble, Mahogany, Crystal
+Featured Amenities: Home Theater, Wine Cellar
+Project Description: A grand estate exuding classic elegance, with intricate detailing and opulent finishes. The design seamlessly merges timeless elements with modern functionality, creating a residence that exudes sophistication and warmth.
+Budget Range: $120,000 - $150,000
+Services Provided: Architectural Detailing, Custom Furniture Design, Smart Home Integration
+Project Duration: 6 Months
+Main Image:
+Interior Design Category: Residential
+
+
+Project 3:
+----------
+Project Name: Cozy Urban Retreat
+Location: City Apartment
+Design Style: Modern Scandinavian
+Square Footage: 800 sq. ft.
+Color Palette: Neutral Whites, Grays, and Natural Wood Tones
+Rooms Involved: Living Room, Kitchen, Home Office
+Furniture Style: Sleek and Functional
+Key Design Elements: Hygge-inspired Elements, Natural Light Emphasis
+Materials Used: Light Wood, Wool, Glass
+Featured Amenities: Cozy Reading Nook, Multi-functional Furniture
+Project Description: An urban oasis that embraces the simplicity of Scandinavian design. The space is curated for comfort and functionality, showcasing how even a compact city apartment can become a tranquil retreat.
+Budget Range: $40,000 - $50,000
+Services Provided: Small Space Solutions, Custom Storage, Lighting Design
+Project Duration: 4 Months
+Main Image:
+Interior Design Category: Residential

@@ -1,0 +1,215 @@
+
+SAMPLE E-BIKES DATA:
+===================
+
+Class 1 eBikes:
+===============
+
+Product Name: Urban Commuter X1
+Description: The Urban Commuter X1 is perfect for city dwellers, offering a sleek design and a comfortable commuting experience.
+Specifications:
+Motor: 350W Brushless Motor
+Maximum Speed: 18 mph
+Pedal Assist Levels: 3 levels
+Battery: 36V Lithium-ion, 8Ah
+Frame Material: Aluminum Alloy
+Brakes: V-Brakes
+Tires: 28-inch hybrid tires
+Price: $999.99
+Sizes: Small, Medium, Large
+
+Product Name: City Explorer S
+Description: City Explorer S combines style and functionality, making it an ideal choice for navigating busy urban streets.
+Specifications:
+Motor: 250W Geared Hub Motor
+Maximum Speed: 20 mph
+Pedal Assist Levels: 5 levels
+Battery: 48V Lithium-ion, 10Ah
+Frame Material: Steel
+Brakes: Disc Brakes
+Tires: 26-inch puncture-resistant tires
+Price: $1,199.99
+Sizes: Medium, Large, X-Large
+
+Product Name: EcoCruise Lite
+Description: EcoCruise Lite is an entry-level Class 1 eBike, perfect for those looking for an affordable and reliable commuting option.
+Specifications:
+Motor: 200W Rear Hub Motor
+Maximum Speed: 15 mph
+Pedal Assist Levels: 3 levels
+Battery: 24V Lithium-ion, 6Ah
+Frame Material: High-tensile Steel
+Brakes: Linear Pull Brakes
+Tires: 24-inch commuter tires
+Price: $699.99
+Sizes: Small, Medium
+
+Product Name: Suburban Cruiser 500
+Description: The Suburban Cruiser 500 offers a smooth and quiet ride, making it an excellent choice for suburban commuting.
+Specifications:
+Motor: 500W Mid-Drive Motor
+Maximum Speed: 22 mph
+Pedal Assist Levels: 7 levels
+Battery: 52V Lithium-ion, 12Ah
+Frame Material: Aluminum Alloy
+Brakes: Hydraulic Disc Brakes
+Tires: 29-inch hybrid tires
+Price: $1,299.99
+Sizes: Medium, Large, X-Large
+
+Product Name: Touring Pro E1
+Description: Touring Pro E1 is designed for long-distance rides, offering a comfortable and efficient riding experience.
+Specifications:
+Motor: 350W Geared Hub Motor
+Maximum Speed: 20 mph
+Pedal Assist Levels: 5 levels
+Battery: 36V Lithium-ion, 14Ah
+Frame Material: Carbon Fiber
+Brakes: Disc Brakes
+Tires: 27.5-inch touring tires
+Price: $1,599.99
+Sizes: Small, Medium, Large
+--------------------------------------------------------------------------------------------
+
+
+Class 2 eBikes:
+===============
+
+Product Name: Power Cruiser X3
+Description: Power Cruiser X3 is a versatile Class 2 eBike with throttle control, offering an extra boost for challenging terrains.
+Specifications:
+Motor: 750W Rear Hub Motor
+Maximum Speed: 25 mph
+Throttle Control: Yes
+Battery: 48V Lithium-ion, 13Ah
+Frame Material: Aluminum Alloy
+Brakes: Hydraulic Disc Brakes
+Tires: 27.5-inch all-terrain tires
+Price: $1,799.99
+Sizes: Medium, Large, X-Large
+
+Product Name: Adventure Seeker Pro
+Description: Adventure Seeker Pro is designed for off-road enthusiasts, combining power and control for an exhilarating ride.
+Specifications:
+Motor: 1000W Mid-Drive Motor
+Maximum Speed: 28 mph
+Throttle Control: Yes
+Battery: 52V Lithium-ion, 15Ah
+Frame Material: Carbon Fiber
+Brakes: Dual Hydraulic Disc Brakes
+Tires: 29-inch off-road tires
+Price: $2,199.99
+Sizes: Large, X-Large
+
+Product Name: Cityscape Navigator 450
+Description: Cityscape Navigator 450 offers a perfect balance between urban commuting and weekend adventures, equipped with a powerful motor.
+Specifications:
+Motor: 450W Geared Hub Motor
+Maximum Speed: 22 mph
+Throttle Control: Yes
+Battery: 36V Lithium-ion, 12Ah
+Frame Material: Steel
+Brakes: Disc Brakes
+Tires: 26-inch multi-terrain tires
+Price: $1,499.99
+Sizes: Small, Medium, Large
+
+
+
+Product Name: Stealth Rider S2
+Description: Stealth Rider S2 provides a stealthy design with high-performance capabilities, making it an ideal choice for urban exploration.
+Specifications:
+Motor: 500W Rear Hub Motor
+Maximum Speed: 20 mph
+Throttle Control: Yes
+Battery: 48V Lithium-ion, 11Ah
+Frame Material: Aluminum Alloy
+Brakes: Hydraulic Disc Brakes
+Tires: 27.5-inch hybrid tires
+Price: $1,899.99
+Sizes: Medium, Large
+
+Product Name: Trekking Master E2
+Description: Trekking Master E2 is built for long-distance trekking, providing comfort and reliability for extended rides.
+Specifications:
+Motor: 350W Mid-Drive Motor
+Maximum Speed: 24 mph
+Throttle Control: Yes
+Battery: 48V Lithium-ion, 14Ah
+Frame Material: Aluminum Alloy
+Brakes: Hydraulic Disc Brakes
+Tires: 28-inch touring tires
+Price: $1,699.99
+Sizes: Small, Medium, Large, X-Large
+---------------------------------------------------------------------------------
+
+
+Class 3 eBikes:
+===============
+
+Product Name: Speed Racer 2000X
+Description: Speed Racer 2000X is a high-performance Class 3 eBike designed for speed enthusiasts, providing an adrenaline-pumping experience.
+Specifications:
+Motor: 1000W Mid-Drive Motor
+Maximum Speed: 30 mph
+Pedal Assist Levels: 9 levels
+Battery: 52V Lithium-ion, 17Ah
+Frame Material: Carbon Fiber
+Brakes: Dual Hydraulic Disc Brakes
+Tires: 29-inch racing tires
+Price: $2,699.99
+Sizes: Medium, Large, X-Large
+
+Product Name: Lightning Bolt X9
+Description: Lightning Bolt X9 is an ultra-lightweight Class 3 eBike designed for nimble and fast urban commuting.
+Specifications:
+Motor: 750W Mid-Drive Motor
+Maximum Speed: 28 mph
+Pedal Assist Levels: 7 levels
+Battery: 48V Lithium-ion, 15Ah
+Frame Material: Carbon Fiber
+Brakes: Hydraulic Disc Brakes
+Tires: 27.5-inch racing tires
+Price: $2,499.99
+Sizes: Small, Medium, Large
+
+Product Name: Turbocharged Pro V2
+Description: Turbocharged Pro V2 is a top-of-the-line Class 3 eBike with advanced features for the ultimate riding experience.
+Specifications:
+Motor: 1200W Mid-Drive Motor
+Maximum Speed: 32 mph
+Pedal Assist Levels: 10 levels
+Battery: 54V Lithium-ion, 20Ah
+Frame Material: Aerospace-grade Aluminum
+Brakes: Quad Hydraulic Disc Brakes
+Tires: 29-inch racing tires
+Price: $3,299.99
+Sizes: Medium, Large, X-Large
+
+Product Name: Velocity King 300
+Description: Velocity King 300 is built for those who crave speed and precision, offering a high-powered motor and responsive controls.
+Specifications:
+Motor: 800W Mid-Drive Motor
+Maximum Speed: 30 mph
+Pedal Assist Levels: 8 levels
+Battery: 50V Lithium-ion, 18Ah
+Frame Material: Carbon Fiber
+Brakes: Dual Hydraulic Disc Brakes
+Tires: 28-inch racing tires
+Price: $2,899.99
+Sizes: Large, X-Large
+
+Product Name: Extreme Cruiser X4
+Description: Extreme Cruiser X4 is a Class 3 eBike designed for off-road adventures, providing power and control on challenging terrains.
+Specifications:
+Motor: 1000W Rear Hub Motor
+Maximum Speed: 28 mph
+Pedal Assist Levels: 7 levels
+Battery: 52V Lithium-ion, 16Ah
+Frame Material: Steel
+Brakes: Quad Hydraulic Disc Brakes
+Tires: 29-inch off-road tires
+Price: $2,599.99
+Sizes: Medium, Large, X-Large
+
+

@@ -6,3 +6,8 @@ https://fonts.google.com/icons
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+
+
+Understand checkout flows in E-Commerce Website
+===================================================
+https://university.webflow.com/lesson/customize-the-checkout-experience?topics=ecommerce#understand-checkout-flows
